@@ -2,8 +2,9 @@
 A local LLM help to help with studing with RAG
 
 # Set .env environment variables like this:-
+```markdown
 NEBIUS_API_KEY=api key
 BASE_URL=llm provider url
 API_MODEL=llm model
 EMBED_MODEL=embedding model
-
+```
